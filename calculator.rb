@@ -1,3 +1,3 @@
-first_number=0
+first_number=1
 second_nuber=1# Add your variables here
-sum=0
+sum=2
