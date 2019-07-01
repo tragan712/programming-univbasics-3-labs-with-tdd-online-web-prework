@@ -1,2 +1,2 @@
-first_number=9
-# Add your variables here
+first_number=0
+second_nuber=0# Add your variables here
